@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64c41f6d-07c5-4499-87e9-5c535ff4ade4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Kotlin基础/kotlin中的异常/try,catch和finally.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kotlin基础/kotlin中的异常/try作为表达式.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/META-INF/Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/META-INF/Kotlin.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,56 +18,40 @@
     <session id="-1072875553">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="1" />
-          <entry key="kt" value="15" />
+          <entry key="kt" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="1" />
-          <entry key="Kotlin" value="15" />
+          <entry key="Kotlin" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="kt" value="3468" />
+          <entry key="kt" value="3948" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Kotlin" value="3468" />
+          <entry key="Kotlin" value="3948" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Kotlin基础/类和属性/1.属性.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Kotlin基础/类和属性/2.自定义访问器.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Kotlin基础/类和属性/3.目录和包.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,8 +91,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Kotlin基础/枚举和when/智能转换.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+            <state relative-caret-position="700">
+              <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -113,7 +100,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Kotlin基础/迭代事物/迭代数字：区间和数列.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
+            <state relative-caret-position="625">
               <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
             </state>
           </provider>
@@ -122,17 +109,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Kotlin基础/迭代事物/迭代map.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
+            <state relative-caret-position="300">
               <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Kotlin基础/迭代事物/使用“in”检查集合和区间的成员.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Kotlin基础/kotlin中的异常/try,catch和finally.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+              <folding>
+                <element signature="e#29#86#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Kotlin基础/kotlin中的异常/try作为表达式.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding>
+                <element signature="e#29#86#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -168,6 +179,8 @@
         <option value="$PROJECT_DIR$/src/Kotlin基础/迭代事物/迭代数字：区间和数列.kt" />
         <option value="$PROJECT_DIR$/src/Kotlin基础/迭代事物/迭代map.kt" />
         <option value="$PROJECT_DIR$/src/Kotlin基础/迭代事物/使用“in”检查集合和区间的成员.kt" />
+        <option value="$PROJECT_DIR$/src/Kotlin基础/kotlin中的异常/try,catch和finally.kt" />
+        <option value="$PROJECT_DIR$/src/Kotlin基础/kotlin中的异常/try作为表达式.kt" />
       </list>
     </option>
   </component>
@@ -193,6 +206,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,19 +226,10 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Kotlin基础" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="KotlinDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Kotlin基础" type="462c0819:PsiDirectoryNode" />
-              <item name="迭代事物" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,20 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Kotlin基础.迭代事物.使用_in_检查集合和区间的成员Kt">
-    <configuration name="Kotlin基础.类和属性._3_目录和包Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Kotlin基础.类和属性._3_目录和包Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Kotlin基础.kotlin中的异常.Try作为表达式Kt">
     <configuration name="Kotlin基础.迭代事物.迭代数字_区间和数列Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin" />
       <option name="VM_PARAMETERS" />
@@ -300,27 +293,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kotlin基础.枚举和when.智能转换Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Kotlin基础.kotlin中的异常.Try作为表达式Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Kotlin基础.枚举和when.智能转换Kt" />
+      <option name="MAIN_CLASS_NAME" value="Kotlin基础.kotlin中的异常.Try作为表达式Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kotlin基础.枚举和when.使用when处理枚举类Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Kotlin基础.kotlin中的异常.Try_catch和finallyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Kotlin基础.枚举和when.使用when处理枚举类Kt" />
+      <option name="MAIN_CLASS_NAME" value="Kotlin基础.kotlin中的异常.Try_catch和finallyKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -340,19 +333,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.Kotlin基础.类和属性._3_目录和包Kt" />
-      <item itemvalue="Kotlin.Kotlin基础.枚举和when.使用when处理枚举类Kt" />
       <item itemvalue="Kotlin.Kotlin基础.迭代事物.迭代数字_区间和数列Kt" />
       <item itemvalue="Kotlin.Kotlin基础.迭代事物.迭代mapKt" />
       <item itemvalue="Kotlin.Kotlin基础.迭代事物.使用_in_检查集合和区间的成员Kt" />
+      <item itemvalue="Kotlin.Kotlin基础.kotlin中的异常.Try_catch和finallyKt" />
+      <item itemvalue="Kotlin.Kotlin基础.kotlin中的异常.Try作为表达式Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Kotlin基础.kotlin中的异常.Try作为表达式Kt" />
+        <item itemvalue="Kotlin.Kotlin基础.kotlin中的异常.Try_catch和finallyKt" />
         <item itemvalue="Kotlin.Kotlin基础.迭代事物.使用_in_检查集合和区间的成员Kt" />
         <item itemvalue="Kotlin.Kotlin基础.迭代事物.迭代mapKt" />
         <item itemvalue="Kotlin.Kotlin基础.迭代事物.迭代数字_区间和数列Kt" />
-        <item itemvalue="Kotlin.Kotlin基础.类和属性._3_目录和包Kt" />
-        <item itemvalue="Kotlin.Kotlin基础.枚举和when.使用when处理枚举类Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -361,15 +354,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -421,6 +413,8 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Kotlin基础/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/Kotlin基础/迭代事物/while循环.kt" />
     <entry file="file://$PROJECT_DIR$/src/Kotlin基础/类和属性/1.属性.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -463,29 +457,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Kotlin基础/package-info.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Kotlin基础/迭代事物/while循环.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Kotlin基础/枚举和when/智能转换.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        <state relative-caret-position="700">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Kotlin基础/迭代事物/迭代数字：区间和数列.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
+        <state relative-caret-position="625">
           <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Kotlin基础/迭代事物/迭代map.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
+        <state relative-caret-position="300">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
@@ -494,6 +482,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Kotlin基础/kotlin中的异常/try,catch和finally.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="e#29#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Kotlin基础/kotlin中的异常/try作为表达式.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <element signature="e#29#86#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
