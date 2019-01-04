@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64c41f6d-07c5-4499-87e9-5c535ff4ade4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/函数的定义与调用/01.在Kotlin中创建集合.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/函数的定义与调用/02.让函数更好的调用.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/函数的定义与调用/03.给别人的类添加方法.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin/META-INF/Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin/META-INF/Kotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kotlin基础/基本要素/04.字符串模板.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kotlin基础/基本要素/04.字符串模板.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,69 +20,51 @@
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.25" value="3" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
-          <entry key="kt" value="24" />
+          <entry key="java" value="2" />
+          <entry key="kt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
-          <entry key="Kotlin" value="24" />
+          <entry key="JAVA" value="2" />
+          <entry key="Kotlin" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="kt" value="4718" />
+          <entry key="kt" value="5646" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Kotlin" value="4718" />
+          <entry key="Kotlin" value="5646" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Kotlin基础/枚举和when/3.声明枚举.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-25">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/函数的定义与调用/01.在Kotlin中创建集合.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-125">
-              <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/函数的定义与调用/02.让函数更好的调用.kt">
+        <entry file="file://$PROJECT_DIR$/src/函数的定义与调用/03.给别人的类添加方法.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="75">
+              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Kotlin基础/枚举和when/2.在when结构中使用任意对象.kt">
+        <entry file="file://$PROJECT_DIR$/src/Kotlin基础/基本要素/04.字符串模板.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+            <state relative-caret-position="375">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -108,7 +89,6 @@
         <option value="$PROJECT_DIR$/src/Kotlin基础/基本要素/01.HelloWorld.kt" />
         <option value="$PROJECT_DIR$/src/Kotlin基础/基本要素/02.函数.kt" />
         <option value="$PROJECT_DIR$/src/Kotlin基础/基本要素/03.变量.kt" />
-        <option value="$PROJECT_DIR$/src/Kotlin基础/基本要素/04.字符串模板.kt" />
         <option value="$PROJECT_DIR$/src/Kotlin基础/类和属性/1.属性.kt" />
         <option value="$PROJECT_DIR$/src/Kotlin基础/类和属性/2.自定义访问器.kt" />
         <option value="$PROJECT_DIR$/src/Kotlin基础/类和属性/3.目录和包.kt" />
@@ -124,6 +104,8 @@
         <option value="$PROJECT_DIR$/src/函数的定义与调用/在Kotlin中创建集合/在Kotlin中创建集合.kt" />
         <option value="$PROJECT_DIR$/src/函数的定义与调用/在Kotlin中创建集合.kt" />
         <option value="$PROJECT_DIR$/src/函数的定义与调用/02.让函数更好的调用.kt" />
+        <option value="$PROJECT_DIR$/src/Kotlin基础/基本要素/04.字符串模板.kt" />
+        <option value="$PROJECT_DIR$/src/函数的定义与调用/03.给别人的类添加方法.kt" />
       </list>
     </option>
   </component>
@@ -133,7 +115,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-40" />
     <option name="width" value="1240" />
     <option name="height" value="1040" />
@@ -149,7 +131,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -174,7 +155,7 @@
               <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Kotlin基础" type="462c0819:PsiDirectoryNode" />
-              <item name="枚举和when" type="462c0819:PsiDirectoryNode" />
+              <item name="基本要素" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="KotlinDemo" type="b2602c69:ProjectViewProjectNode" />
@@ -186,6 +167,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,28 +196,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Kotlin基础.枚举和when._1_使用when处理枚举类Kt">
-    <configuration name="Kotlin基础.kotlin中的异常._01_try_catch和finallyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.函数的定义与调用._03_给别人的类添加方法Kt">
+    <configuration name="Kotlin基础.基本要素._04_字符串模板Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Kotlin基础.kotlin中的异常._01_try_catch和finallyKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Kotlin基础.kotlin中的异常._02_try作为表达式Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Kotlin基础.kotlin中的异常._02_try作为表达式Kt" />
+      <option name="MAIN_CLASS_NAME" value="Kotlin基础.基本要素._04_字符串模板Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -249,19 +218,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="Kotlin基础.枚举和when._1_使用when处理枚举类Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Kotlin基础.枚举和when.在when结构中使用任意对象Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Kotlin基础.枚举和when.在when结构中使用任意对象Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -293,20 +249,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="函数的定义与调用._03_给别人的类添加方法Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="函数的定义与调用._03_给别人的类添加方法Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Kotlin.Kotlin基础.kotlin中的异常._01_try_catch和finallyKt" />
-      <item itemvalue="Kotlin.Kotlin基础.kotlin中的异常._02_try作为表达式Kt" />
       <item itemvalue="Kotlin.函数的定义与调用._01_在Kotlin中创建集合Kt" />
       <item itemvalue="Kotlin.函数的定义与调用._02_让函数更好的调用Kt" />
       <item itemvalue="Kotlin.Kotlin基础.枚举和when._1_使用when处理枚举类Kt" />
+      <item itemvalue="Kotlin.函数的定义与调用._03_给别人的类添加方法Kt" />
+      <item itemvalue="Kotlin.Kotlin基础.基本要素._04_字符串模板Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.函数的定义与调用._03_给别人的类添加方法Kt" />
+        <item itemvalue="Kotlin.Kotlin基础.基本要素._04_字符串模板Kt" />
         <item itemvalue="Kotlin.Kotlin基础.枚举和when._1_使用when处理枚举类Kt" />
         <item itemvalue="Kotlin.函数的定义与调用._02_让函数更好的调用Kt" />
         <item itemvalue="Kotlin.函数的定义与调用._01_在Kotlin中创建集合Kt" />
-        <item itemvalue="Kotlin.Kotlin基础.kotlin中的异常._02_try作为表达式Kt" />
-        <item itemvalue="Kotlin.Kotlin基础.kotlin中的异常._01_try_catch和finallyKt" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +286,7 @@
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26675603" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -332,6 +301,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32885906" />
+      <window_info anchor="right" id="Kotlin Bytecode" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -365,13 +335,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Kotlin基础/基本要素/04.字符串模板.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -416,16 +379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-          <folding>
-            <element signature="e#29#86#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/函数的定义与调用/01.在Kotlin中创建集合.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -433,9 +386,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-          <folding>
-            <element signature="e#29#86#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -460,31 +410,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Kotlin基础/枚举和when/3.声明枚举.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-25">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/函数的定义与调用/让函数更好的调用/1.命名参数.kt" />
     <entry file="file://$PROJECT_DIR$/src/Kotlin基础/枚举和when/2.在when结构中使用任意对象.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
+        <state relative-caret-position="525">
           <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/函数的定义与调用/让函数更好的调用/1.命名参数.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/函数的定义与调用/01.在Kotlin中创建集合.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-125">
-          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -492,6 +422,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/函数的定义与调用/01.在Kotlin中创建集合.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Kotlin基础/枚举和when/3.声明枚举.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/函数的定义与调用/给别人的类添加方法.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Kotlin基础/基本要素/04.字符串模板.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/函数的定义与调用/03.给别人的类添加方法.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
         </state>
       </provider>
     </entry>

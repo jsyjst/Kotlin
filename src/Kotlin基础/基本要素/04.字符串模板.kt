@@ -1,4 +1,5 @@
 package Kotlin基础.基本要素
+import 函数的定义与调用.lastChar as last
 
 /**
  * <pre>
@@ -12,4 +13,5 @@ fun main(args : Array<String>){
     val name = if(args.isNotEmpty()) args[0] else "Kotlin"
     println("Hello,$name !")
     println("Hello ,${if(args.isNotEmpty()) args[0] else "Someone"}!")
+    println("Kotlin".last())
 }
