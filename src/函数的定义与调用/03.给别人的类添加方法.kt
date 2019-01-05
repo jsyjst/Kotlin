@@ -9,6 +9,8 @@ package 函数的定义与调用
  * </pre>
  */
 
+
+
 fun main(args : Array<String>){
     val list = listOf(1,2,3)
     println("Kotlin".lastChar())
@@ -19,9 +21,30 @@ fun main(args : Array<String>){
     val view : View = Button()
     view.click()
     view.showOff()
-    
-}
 
+    //扩展属性
+    val sb = StringBuilder("Kotlin?")
+    sb.lastChar = '!'
+    println(sb)
+
+}
+/**
+ * 和扩展函数一样，扩展属性也像接收者的一个普通的成员属性一样
+ * 这里必须定义getter函数，因为没有支持的字段，故没有默认的getter的实现
+ * 初始化也不可以：因为没有地方存储初始值
+ */
+val String.lastChar :Char
+    get() = get(length -1)
+
+var StringBuilder.lastChar :Char
+    get() = get(length -1)
+    set(value){
+        this.setCharAt(length-1,value)
+    }
+
+/**
+ * 扩展函数
+ */
 fun String.lastChar() :Char = get(length - 1)
 
 /**
